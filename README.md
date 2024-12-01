@@ -1,4 +1,4 @@
-# Weather App
+# Forecastify -a Weather App
 
 A simple and interactive weather application built with React that allows users to search for weather information by city name. The app displays current weather conditions, including temperature, humidity, wind speed, and more. It also provides a 5-day weather forecast and allows users to save their favorite cities for quick access.
 
@@ -26,7 +26,7 @@ To run the project locally, follow the steps below:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/githubRahuld/Forecastify.git
    ```
 
 2. Navigate to the project directory:
