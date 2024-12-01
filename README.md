@@ -44,7 +44,8 @@ To run the project locally, follow the steps below:
 4. Create a .env file in the root of the project and add your OpenWeatherMap API key:
 
    ```bash
-   REACT_APP_API_KEY=your-api-key
+   VITE_API_KEY=your_api_key
+   VITE_API_URL=your_openWeatherMap_URL
    ```
 
 5. Run the development server:
